@@ -1,8 +1,10 @@
-### 🚀 Building a Full-Stack Todo App with Next.js 14 and Payload CMS
+### 🚀 Building a Full-Stack Todo App with Next.js 14 and Payload CMS (Part 2)
 
 In this tutorial, we build a modern Todo application that showcases the power of Next.js 14 and Payload CMS.
 
-### Video - [Watch the video tutorial here!](https://youtu.be/v_ga0nzm-wU)
+Part two focuses on authentication and route protection
+
+### Video - [Watch the video tutorial here!]([https://youtu.be/v_ga0nzm-wU](https://youtu.be/9SZYwfkerZY))
 
 Key Features:
 
