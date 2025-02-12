@@ -4,7 +4,7 @@ In this tutorial, we build a modern Todo application that showcases the power of
 
 Part two focuses on authentication and route protection
 
-### Video - [Watch the video tutorial here!]([https://youtu.be/v_ga0nzm-wU](https://youtu.be/9SZYwfkerZY))
+### Video - Watch the video tutorial here! https://youtu.be/9SZYwfkerZY   
 
 Key Features:
 
